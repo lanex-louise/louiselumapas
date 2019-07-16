@@ -1,0 +1,10 @@
+Searching 15 files for "cartoon.png"
+
+/Users/lanex/Desktop/resume-master/css/responsive.css:
+   11  	.info_timeline dl dd { width: calc(100% - 200px); width: -moz-calc(100% - 200px); width: -webkit-calc(100% - 200px); }
+   12  	.footer a { float: right; }
+   13: 	.tip_avatar_con { background: url('../images/me.jpg') no-repeat 20% center; }
+   14  	.tip_right { width: 45%; height: 460px; position: absolute; right: 0; top: 50%; margin: -230px 0 0; }
+   15  	.info_content.over .desc { height: 0; margin: 0; }
+
+1 match in 1 file
